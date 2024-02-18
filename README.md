@@ -1,4 +1,4 @@
-# Nmap Cheat Sheet by Prime
+# Nmap Cheat Sheet by Prime Murcia
 
 ## Introduction
 
